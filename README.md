@@ -11,7 +11,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 | Validation  | 497  | 9940  |9940  |
 | Test  | 2990  | 59800  |59800  |
 
-# Hindi and English captions
+# Sample Hindi and English captions
 
 
 |**Video1470**|**Video618**|**Video4139**|
