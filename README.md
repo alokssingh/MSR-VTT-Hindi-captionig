@@ -12,13 +12,10 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 | Test  | 2990  | 59800  |59800  |
 
 # Hindi and English captions
---- | --- 
-<img src="https://github.com/Shobhit20/Image-Captioning/blob/master/test/beach.jpg" width="400"> | **Generated Caption:** A brown dog is running in the water.
 video |video |video | 
+<img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif" width="400"> | <img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif" width="400"> | <img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif" width="400"> | 
 
-<img src="https://github.com/Shobhit20/Image-Captioning/blob/master/test/image.jpg" width="400"> | **Generated Caption:** A tennis player hitting the ball.
-<img src="https://github.com/Shobhit20/Image-Captioning/blob/master/test/child.png" width="400"> | **Generated Caption:** A child in a helmet is riding a bike.
-<img src="https://github.com/Shobhit20/Image-Captioning/blob/master/test/street.png" width="400"> | **Generated Caption:** A group of people are walking on a busy street.
+**Generated Caption:** A group of people are walking on a busy street.
 
 
 Code will be uploaded soon on the acceptance of the Manuscript
