@@ -32,7 +32,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 [video618]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
 [video4139]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif
 
-
+<img src="https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video4139.gif" width="250" height="250"/>
 
 Code will be uploaded soon on the acceptance of the Manuscript
 
