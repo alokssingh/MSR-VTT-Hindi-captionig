@@ -12,8 +12,20 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 | Test  | 2990  | 59800  |59800  |
 
 # Hindi and English captions
-video |video |video | 
-<img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif" width="400"> | <img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif" width="400"> | <img src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif" width="400"> | 
+
+
+|         |            |   |
+| :-------------: |:-------------:| :-----:|
+| ![12589][12589]| ![12966][12966] | ![12908][12908]
+|  a person is playing with a toy | a man is walking on the field | a man is standing in a gym |
+
+
+[12589]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
+[12966]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
+[12908]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif
+
+
+
 
 **Generated Caption:** A group of people are walking on a busy street.
 
