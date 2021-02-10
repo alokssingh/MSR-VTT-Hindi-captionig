@@ -18,7 +18,6 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 | :-------------: |:-------------:| :-----:|
 | ![video1470][video1470]| ![video618][video618] | ![video4139][video4139]|
 |**Video1470**|**Video618**|**Video4139**|
-
 |**English Caption**|**English Caption**|**English Caption**|
 |hilary clinton is giving a speech to an enthusiastic crowd}|{a racing car passing away speedily}|some people are cooking|
 |**Hindi Caption**|**Hindi Caption**|**Hindi Caption**|
