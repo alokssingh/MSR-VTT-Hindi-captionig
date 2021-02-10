@@ -18,13 +18,13 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 | :-------------: |:-------------:| :-----:|
 | ![video1470][video1470]| ![video618][video618] | ![video4139][video4139]|
 |**Video1470**|**Video618**|**Video4139**|
-|**English Caption**|**English Caption**|**English Caption**|
+|**English Captions**|**English Captions**|**English Captions**|
 |hilary clinton is giving a speech to an enthusiastic crowd|a racing car passing away speedily|some people are cooking|
 |a woman giving a speech|race cars driving in the wilderness|instructions on how to prepare eggs|
 |hillary clinton gives a speech|cars are racing down a mountain path|a person is preparing egg whites|
 |hillary clinton political video|cars are traveling down a road surrounded by people in a forest|a child is cooking in the kitchen|
-|**Hindi Caption**|**Hindi Caption**|**Hindi Caption**|
-
+|**Hindi Captions**|**Hindi Captions**|**Hindi Captions**|
+|हिलेरी क्लिंटन एक उत्साही भीड़ को भाषण दे रही हैं|एक रेसिंग कार तेजी से गुजर रही है|कुछ लोग खाना बना रहे हैं|
 
 [video1470]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
 [video618]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
