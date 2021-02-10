@@ -16,7 +16,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 |         |            |   |
 | :-------------: |:-------------:| :-----:|
-| <img align="right" alt="GIF" src="https://media.giphy.com/media/2juvZoQ3oLa4U/giphy.gif" />| ![video618][video618] | ![video4139][video4139]|
+| <img align="right" alt="GIF" src="https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif" />| ![video618][video618] | ![video4139][video4139]|
 |**Video1470**|**Video618**|**Video4139**|
 |**English Captions**|**English Captions**|**English Captions**|
 |hilary clinton is giving a speech to an enthusiastic crowd|a racing car passing away speedily|some people are cooking|
