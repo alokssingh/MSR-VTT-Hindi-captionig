@@ -37,7 +37,8 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 [](https://github.com/alokssingh/MSR-VTT-captioning/video618.gif)
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/2juvZoQ3oLa4U/giphy.gif" />
+ 
 Code will be uploaded soon on the acceptance of the Manuscript
 
 
