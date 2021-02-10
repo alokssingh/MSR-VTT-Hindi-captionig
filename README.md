@@ -5,9 +5,9 @@ This repository contains the MSR-VTT video captioning dataset in with translated
 # Dataset detail
 | Data seperation  | # Videos  | # Hindi caption | # English caption |
 | ------------- | ------------- |------------- |------------- |
-| Training  | 6153  | 123060  |
-| Validation  | 497  | 9940  |
-| Test  | 2990  | 59800  |
+| Training  | 6153  | 123060  |123060  |
+| Validation  | 497  | 9940  |9940  |
+| Test  | 2990  | 59800  |59800  |
 
 
 Code will be uploaded soon on the acceptance of the Manuscript
