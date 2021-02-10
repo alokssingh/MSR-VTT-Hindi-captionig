@@ -16,7 +16,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 |**Video1470**|**Video618**|**Video4139**|
  :-------------: |:-------------:| :-----:|
-|![video1470][video1470]| ![video618][video618] | ![video4139][video4139]|
+|![video1470]| ![video618][video618] | ![video4139][video4139]|
 |**English Captions**|**English Captions**|**English Captions**|
 |hilary clinton is giving a speech to an enthusiastic crowd|a racing car passing away speedily|some people are cooking|
 |a woman giving a speech|race cars driving in the wilderness|instructions on how to prepare eggs|
