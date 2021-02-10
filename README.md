@@ -1,5 +1,6 @@
 # MSR-VTT-Hindi-video-captionig
-This repository contains the MSR-VTT video captioning dataset in with translated Hindi captions
+This repository contains the MSR-VTT video captioning dataset in with translated Hindi captions used in the paper [Attention Based Video Captioning Framework for Hindi
+]()
 
 Code will be uploaded soon on the acceptance of the Manuscript
 
