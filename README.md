@@ -16,8 +16,12 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 |         |            |   |
 | :-------------: |:-------------:| :-----:|
-| ![video1470][video1470]| ![video618][video618] | ![video4139][video4139]
-|  a person is playing with a toy | a man is walking on the field | a man is standing in a gym |
+| ![video1470][video1470]| ![video618][video618] | ![video4139][video4139]|
+|**Video1470**|**Video618**|**Video4139**|
+
+|**English Caption**|**English Caption**|**English Caption**|
+|hilary clinton is giving a speech to an enthusiastic crowd}|{a racing car passing away speedily}|some people are cooking|
+|**Hindi Caption**|**Hindi Caption**|**Hindi Caption**|
 
 
 [video1470]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
@@ -27,7 +31,6 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 
 
-**Generated Caption:** A group of people are walking on a busy street.
 
 
 Code will be uploaded soon on the acceptance of the Manuscript
