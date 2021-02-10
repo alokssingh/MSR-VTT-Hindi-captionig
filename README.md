@@ -25,6 +25,9 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 |hillary clinton political video|cars are traveling down a road surrounded by people in a forest|a child is cooking in the kitchen|
 |**Hindi Captions**|**Hindi Captions**|**Hindi Captions**|
 |हिलेरी क्लिंटन एक उत्साही भीड़ को भाषण दे रही हैं|एक रेसिंग कार तेजी से गुजर रही है|कुछ लोग खाना बना रहे हैं|
+|एक महिला भाषण दे रही हैं|जंगल में गाड़ी चलाते हुए|अंडे तैयार करने के तरीके के बारे में निर्देशं|
+|हिलेरी क्लिंटन एक स्पीच दे रही हैंं|कारें एक पहाड़ी रास्ते पर दौड़ रही हैं|एक व्यक्ति अंडे की सफेदी तैयार कर रहा है|
+|हिलेरी क्लिंटन राजनीतिक वीडियो|कारें एक जंगल में लोगों से घिरी सड़क पर उतर रही हैं|एक बच्चा रसोई में खाना बना रहा है|
 
 [video1470]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
 [video618]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
