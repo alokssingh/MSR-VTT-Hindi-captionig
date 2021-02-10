@@ -16,13 +16,13 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 |         |            |   |
 | :-------------: |:-------------:| :-----:|
-| ![12589][12589]| ![12966][12966] | ![12908][12908]
+| ![video1470][video1470]| ![video618][video618] | ![video4139][video4139]
 |  a person is playing with a toy | a man is walking on the field | a man is standing in a gym |
 
 
-[12589]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
-[12966]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
-[12908]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif
+[video1470]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video1470.gif
+[video618]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video618.gif
+[video4139]: https://github.com/alokssingh/MSR-VTT-captioning/tree/master/images/video4139.gif
 
 
 
