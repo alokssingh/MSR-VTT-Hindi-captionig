@@ -35,7 +35,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 
 
-[a](https://github.com/alokssingh/MSR-VTT-captioning/video618.gif)
+[](https://github.com/alokssingh/MSR-VTT-captioning/video618.gif)
 
 
 Code will be uploaded soon on the acceptance of the Manuscript
