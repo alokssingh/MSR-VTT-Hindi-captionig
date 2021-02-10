@@ -16,7 +16,7 @@ is done as per the statistics given in [1](https://www.microsoft.com/en-us/resea
 
 |**Video1470**|**Video618**|**Video4139**|
  :-------------: |:-------------:| :-----:|
-|![video1470](https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video1470.gif)| ![video618](https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video618.gif) |<img src="https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video4139.gif" width="350" height="230"/>|
+|<img src="https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video1470.gif"width="250" height="250"/>|<img src=" ttps://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video618.gif" width="250" height="250"/> |<img src="https://github.com/alokssingh/MSR-VTT-captioning/blob/master/images/video4139.gif" width="250" height="250"/>|
 |**English Captions**|**English Captions**|**English Captions**|
 |hilary clinton is giving a speech to an enthusiastic crowd|a racing car passing away speedily|some people are cooking|
 |a woman giving a speech|race cars driving in the wilderness|instructions on how to prepare eggs|
