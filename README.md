@@ -4,6 +4,7 @@ based on 257 queries with average 118 videos for each queries. The separation of
 is done as per the statistics given in [[1]](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf).  This repository contains the MSR-VTT video captioning dataset in Hindi. To maintain the integrity of MSR−VTT dataset, all the 20 English captions of each video are translated to Hindi. The output Hindi captions of Google translator need to be post-edited due to the presence of some erroneous translated Hindi captions. These errors are mostly due to ambiguous word sense and typo.
 
 NOTE: Details of video with there ids are available [here](http://ms-multimedia-challenge.com/2017/dataset)
+
  **Dataset detail**:
 | Data seperation  | # Videos  | # Hindi caption | # English caption |
 | ------------- | ------------- |------------- |------------- |
