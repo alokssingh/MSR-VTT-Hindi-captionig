@@ -37,7 +37,7 @@ To get whole data with video please fill the [google form](https://docs.google.c
 
 
 
-*Acknowledgements:*
+**Acknowledgements:**
 1. [MSR-VTT: A Large Video Description Dataset for Bridging Video and Language](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/06/cvpr16.msr-vtt.tmei_-1.pdf)
 2. [A Comprehensive Review on Recent Methods and Challenges of Video Description](https://arxiv.org/abs/2011.14752)
 3. [NITS-VC System for VATEX Video Captioning Challenge 2020](https://arxiv.org/abs/2006.04058)
