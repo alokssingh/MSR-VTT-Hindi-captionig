@@ -33,6 +33,37 @@ NOTE: Details of video with their ids are available [here](http://ms-multimedia-
 **Dataset**
 
 To get whole data with video please fill the [google form](https://docs.google.com/forms/d/e/1FAIpQLScG2CgspdzbbEsBLDhDLXunUJkggqAvl5fHgDqVj6HwTSSOPg/viewform?usp=sf_link), we will mail you all the details.
+## Release format
+
+The same format used in the MSR-VTT dataset is adopted:
+
+```
+{
+  "info" : {
+    "year" : str,
+    "version" : str,
+    "description": str,
+    "contributor": str,
+    "data_created": str
+  },
+  "videos": {
+    "id": int,
+    "video_id": str,
+    "category": int,
+    "url": str,
+    "start time": float,
+    "end time": float,
+    "split": str
+  },
+  "sentences": {
+    "sen_id": int,
+    "video_id": str,
+    "caption": str
+  }
+}
+
+```
+
 
 
 
