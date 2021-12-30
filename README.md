@@ -6,6 +6,7 @@ is done as per the statistics given in [[1]](https://www.microsoft.com/en-us/res
 **NOTE:** 
 1. Details of video with their ids are available [here](http://ms-multimedia-challenge.com/2017/dataset)
 2. To get whole data with video please fill the [google form](https://docs.google.com/forms/d/e/1FAIpQLScG2CgspdzbbEsBLDhDLXunUJkggqAvl5fHgDqVj6HwTSSOPg/viewform?usp=sf_link), we will mail you all the details.
+
  **Dataset detail**:
 | Data seperation  | # Videos  | # Hindi caption | # English caption |
 | ------------- | ------------- |------------- |------------- |
