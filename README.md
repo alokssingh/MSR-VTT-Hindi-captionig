@@ -32,9 +32,6 @@ is done as per the statistics given in [[1]](https://www.microsoft.com/en-us/res
 |हिलेरी क्लिंटन राजनीतिक वीडियो|कारें एक जंगल में लोगों से घिरी सड़क पर उतर रही हैं|एक बच्चा रसोई में खाना बना रहा है|
 
 
-**Dataset**
-
-To get whole data with video please fill the [google form](https://docs.google.com/forms/d/e/1FAIpQLScG2CgspdzbbEsBLDhDLXunUJkggqAvl5fHgDqVj6HwTSSOPg/viewform?usp=sf_link), we will mail you all the details.
 ## Release format
 
 The same format used in the MSR-VTT dataset is adopted:
